@@ -1,52 +1,32 @@
 # WaveMail AI System
 
-Sistema contextual para transformar Claude e ChatGPT em especialistas em:
+Transforme Claude ou ChatGPT em um especialista em:
 
 - E-mail marketing
 - CRM
 - Retenção
 - Automação
 - CRO
-- Deliverability
 - Estratégias para e-commerce
 
 ---
 
 # Como usar
 
-## 1. Abra o Claude ou ChatGPT
+## 1. Abra:
+docs/como-usar.md
 
-## 2. Envie o arquivo:
+## 2. Envie:
 skills/email-marketing.md
 
-## 3. Cole o conteúdo de:
-prompt-principal.txt
-
-## 4. Comece a usar normalmente
-
----
-
-# O que a IA conseguirá fazer
-
-- Criar campanhas
-- Criar automações
-- Melhorar copy
-- Criar fluxos
-- Estruturar calendários
-- Melhorar retenção
-- Analisar estratégias
-- Melhorar entregabilidade
-- Criar campanhas de CRM
-- Criar pop-ups
-- Estruturar jornadas
+## 3. Use:
+prompts/prompt-principal.txt
 
 ---
 
 # Estrutura
 
 ```bash
+/docs
+/prompts
 /skills
-   email-marketing.md
-
-prompt-principal.txt
-README.md
